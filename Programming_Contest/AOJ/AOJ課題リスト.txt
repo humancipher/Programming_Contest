@@ -1,0 +1,16 @@
+自力では未解決問題リスト
+ALDS1_1_3_C:双方向リストをクラスを用いて実装
+ALDS1_1_5_D:binary indexed treeでの実装がよく分からない
+ALDS1_1_6_D:
+ALDS1_1_17_D:
+ALDS1_1_8_D:
+ALDS1_1_10_B:
+ALDS1_1_10_C:計算量がギリギリでTLEになる
+ALDS1_1_10_D:
+
+問題から学習したことリスト
+ALDS1_4_C:辞書型を用いると検索が高速
+ALDS1_6_A:どこで計算を間違えているか分からないときはprintを細かく入れよう
+ALDS1_8_A:listの内容を全てprintするにはlist[i]を全てprintするよりprint(" ".join(map(str,list))を使う方が高速
+ALDS1_9_C:優先度付きキューはimport heapqでheapqが優先度付きキュークラス
+ALDS1_9_C:行数不明の入力は終わった時点でCtrl+Zを押す前提で動く
